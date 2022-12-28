@@ -3,10 +3,20 @@
 ## Summary
 * Created a set of analyses that support or disprove the following statements made by company leadership:
   * Head of Customer Service: “Our ratings are gradually improving, and we will soon reach 4.5/5.”
-    * The data does not support the statement made by the Head of Customer Service. In fact, average ratings by year show average ratings declining during the same timeline. We can also see the total ratings received increase during those years.
+    * Overall, the data and visualizations do not fully support the statement by the Head of Customer Service and may actually be more suited to support the opposite conclusion.
+    
   * Head of Store Operations: “Sandwiches are a tricky business. All sandwich chains suffer from poor customer ratings.”
+    * There is data to suggest that sandwiches are not the only tricky business.
+  
   * Head of Social Media: “The goal of 4.5/5 is unreasonable for national chains like us. Only small, local, and boutique restaurants can achieve such high ratings.”
+    * While the bar chart indicates that the statement by the Head of Social Media is true, further examination such as the plotting of a scatter plot is required to explore if there is a strong relationship between restaurant size and average ratings.
+    * There is also an issue of overrepresentation of local restaurants over boutique and national-sized restaurants exist as can be seen by this relative frequency table:
+    * National-sized restaurants represent 33.87% of the reviews in the dataset, while local restaurants represent 62.21% (nearly double). Boutique restaurants, who have a presence in between 1 and 50 cities represent 3.92% and have a similar average rating to local restaurants. This inequality in relative frequencies results in overrepresentation.
+    * After a closer investigation of the relationship between restaurant size and average ratings, we find that there is a weak negative correlation (r = -0.2) or lack of clear evidence to support that average rating decreases as the size of restaurant increases. We also understand that this may not be an accurate depiction of the situation because as I noted in Part A, there is overrepresentation.
+    
   * Chief Data Scientist: “It is well known that customers make the effort to give a rating only when they are either extremely angry or absolutely delighted with the service. So online ratings are not reliable.”
+    * The data also supports the statement for all years from 2018 to 2021. In the bar chart for Ratings vs Number of Reviews for 2018-2021, we can see that ratings of 1 and 5 are abundant compared to 2, 3, and 4. Therefore, there is further evidence to support the statement by the Chief Data Scientist: “It is well known that customers make the effort to give a rating only when they are either extremely angry or absolutely delighted with the service.”
+  
 * Yelp Datasets used in the analysis: reviews.csv and restaurants.csv
 
 ## Procedure
