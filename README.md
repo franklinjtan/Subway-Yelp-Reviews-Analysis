@@ -10,7 +10,6 @@
   
   * Head of Social Media: “The goal of 4.5/5 is unreasonable for national chains like us. Only small, local, and boutique restaurants can achieve such high ratings.”
     * While the bar chart indicates that the statement by the Head of Social Media is true, further examination such as the plotting of a scatter plot is required to explore if there is a strong relationship between restaurant size and average ratings.
-    * There is also an issue of overrepresentation of local restaurants over boutique and national-sized restaurants exist as can be seen by this relative frequency table:
     
   * Chief Data Scientist: “It is well known that customers make the effort to give a rating only when they are either extremely angry or absolutely delighted with the service. So online ratings are not reliable.”
     * The data also supports the statement for all years from 2018 to 2021. In the bar chart for Ratings vs Number of Reviews for 2018-2021, we can see that ratings of 1 and 5 are abundant compared to 2, 3, and 4. Therefore, there is further evidence to support the statement by the Chief Data Scientist: “It is well known that customers make the effort to give a rating only when they are either extremely angry or absolutely delighted with the service.”
