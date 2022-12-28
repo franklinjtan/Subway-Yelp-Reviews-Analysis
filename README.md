@@ -1,5 +1,5 @@
 # Subway Yelp Reviews Analysis
-
+![](/images/subway_fig_2.png)
 ## Summary
 * Created a set of analyses and data visualizations that support or disprove the following statements made by Subway Restaurant leadership:
   * Head of Customer Service: “Our ratings are gradually improving, and we will soon reach 4.5/5.”
@@ -22,7 +22,6 @@
 
 ## Screenshot of Data Visuals Generated
 ![](/images/subway_fig_1.png)
-![](/images/subway_fig_2.png)
 ![](/images/subway_fig_4.png)
 ![](/images/subway_fig_6.png)
 ![](/images/subway_fig_7.png)
