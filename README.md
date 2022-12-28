@@ -23,9 +23,7 @@
 ## Screenshot of Data Visuals Generated
 ![](/images/subway_fig_1.png)
 ![](/images/subway_fig_2.png)
-![](/images/subway_fig_3.png)
 ![](/images/subway_fig_4.png)
-![](/images/subway_fig_5.png)
 ![](/images/subway_fig_6.png)
 ![](/images/subway_fig_7.png)
 ![](/images/subway_fig_8.png)
