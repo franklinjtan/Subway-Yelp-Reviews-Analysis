@@ -6,6 +6,7 @@
   * Head of Store Operations: “Sandwiches are a tricky business. All sandwich chains suffer from poor customer ratings.”
   * Head of Social Media: “The goal of 4.5/5 is unreasonable for national chains like us. Only small, local, and boutique restaurants can achieve such high ratings.”
   * Chief Data Scientist: “It is well known that customers make the effort to give a rating only when they are either extremely angry or absolutely delighted with the service. So online ratings are not reliable.”
+* Used matplotlib, seaborn, scipy, and pandas to generate line charts, bar charts, scatterplots, groupedby dataframes, and linear regression analyses
 
 ## Procedure
 * Loaded Yelp datasets: reviews.csv and restaurants.csv 
@@ -20,7 +21,17 @@
 * Plotted a hours vs number of reviews to see time intervals that Subway receives the most reviews.
 
 ## Screenshot of Data Visuals Generated
-
+![](/subway_fig_1.png.png)
+![](/subway_fig_2.png.png)
+![](/subway_fig_3.png.png)
+![](/subway_fig_4.png.png)
+![](/subway_fig_5.png.png)
+![](/subway_fig_6.png.png)
+![](/subway_fig_7.png.png)
+![](/subway_fig_8.png.png)
+![](/subway_fig_9.png.png)
+![](/subway_fig_10.png.png)
+![](/subway_fig_11.png.png)
 
 ## Related Course
 * Cornell University MSBA BANA 5440 Statistical Programming with Rakesh Allu, Ph.D. Student, Operations, Technology & Information Management
